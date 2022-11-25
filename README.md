@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Wuelta!
+## Olá! Eu sou o Gustavo Wuelta, seja bem-vindo ao meu GitHub!
 
 - 💻 Atualmente estou em um projeto de aprendizado promovido pela empresa GCB Investimentos, onde estou aprendendo e trabalhando com back-end.
 - 📚 Estou cursando o segundo e último ano de Análise e Desenvolvimento de Sistemas na instituição FIAP. 
