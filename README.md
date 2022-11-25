@@ -4,7 +4,7 @@
 - 🌱 Hoje meu estudo é focado em Javascript e Typescript, buscando sempre aprender e me aperfeiçoar cada vez mais em ambos!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GuWuelta">
   <img height="180em" width="410" src="https://github-readme-stats.vercel.app/api?username=GuWuelta&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuWuelta&layout=compact&langs_count=7&theme=monokai"/>
 </div>
