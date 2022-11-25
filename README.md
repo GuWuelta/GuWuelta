@@ -1,10 +1,10 @@
-## Olá! Eu sou o Gustavo Wuelta, seja bem-vindo ao meu GitHub!
+## Olá! Eu sou o Gustavo Wuelta, seja bem-vindo ao meu GitHub! :)
 
 - 💻 Atualmente estou em um projeto de aprendizado promovido pela empresa GCB Investimentos, onde estou aprendendo e trabalhando com back-end.
 - 📚 Estou cursando o segundo e último ano de Análise e Desenvolvimento de Sistemas na instituição FIAP. 
 - 🌱 Hoje meu estudo é focado em Javascript e Typescript, buscando sempre aprender e me aperfeiçoar cada vez mais em ambos.
 - 🌍 Sou de São Paulo, Brasil.
-- 🤓 Entrei no mundo de programação e tecnologia pois desde muito novo sempre gostei de passar horas no computador, seja jogando, assistindo vídeos ou o que fosse. Conforme cresci fui me interessando e me envolvendo cada vez mais neste mundo.
+- 🤓 Entrei no mundo de programação e tecnologia pois desde muito novo sempre gostei de passar horas no computador, seja jogando, assistindo vídeos ou o que fosse. Conforme fui crescendo fui me interessando e me envolvendo cada vez mais neste mundo.
 
 <div align="center">
   <a href="https://github.com/GuWuelta">
