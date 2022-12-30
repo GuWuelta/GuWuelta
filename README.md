@@ -3,7 +3,7 @@
 - 💻 Atualmente eu estou aprendendo e em constante aprendizado com back-end.
 - 📚 Estou no último ano do curso de Análise e Desenvolvimento de Sistemas na instituição FIAP. 
 - 🌱 Hoje os meus estudos e trabalhos são totalmente focados em Javascript e Typescript.
-- 🌍 São de São Paulo, Brasil.
+- 🌍 Sou de São Paulo, Brasil.
 - 🤓 Eu entrei neste mundo de programação pois desde criança sempre gostei muito de passar horas no computador, fosse jogando, assistindo vídeos ou o que fosse. Conforme eu cresci, fui apresentado a este mundo e meu interesse só aumenta conforme o tempo passa.
 
 <div align="center">
