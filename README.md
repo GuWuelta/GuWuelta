@@ -10,7 +10,6 @@
 
 <hr>
 
-
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Atualmente eu trabalho com desenvolvimento back-end!
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Eu estou cursando o último ano de Análise e Desenvolvimento de Sistemas pela FIAP. 
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Hoje tanto meus estudos quanto meu trabalho são totalmente focados em Javascript e Typescript!
@@ -19,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/GuWuelta">
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GuWuelta&show_icons=true&theme=2077&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuWuelta&layout=compact&langs_count=7&theme=2077"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GuWuelta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuWuelta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -28,15 +27,14 @@
       <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Gu-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
      </div>
-      
-   <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/l41YouCUUcreUabHW/giphy.gif">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/l41YouCUUcreUabHW/giphy.gif">
 </div>
- 
+   
 <div align="center">
   <h2>
     💬 Conecte-se comigo! 💬
   </h2>
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/l41YouCUUcreUabHW/giphy.gif">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/l41YouCUUcreUabHW/giphy.gif">
   <a href="https://www.facebook.com/profile.php?id=100007939398389" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_guwuelta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavo.wuelta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
