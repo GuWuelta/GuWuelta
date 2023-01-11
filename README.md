@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou o Gustavo Wuelta, seja bem vindo ao meu: </h1>
 
 <div align="center" >
-  <img width="500px" alt="Rafa-pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1062571674286960680/1062581020412620830/olagithub.png"/>
+  <img width="500px" height="150" alt="Rafa-pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1062571674286960680/1062581020412620830/olagithub.png"/>
 </div>
 
 <div align="center" >
