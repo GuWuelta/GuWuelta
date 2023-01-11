@@ -21,13 +21,6 @@
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GuWuelta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuWuelta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-  <div style="display: inline_block"><br>
-    <div align="center"> 
-      <img align="center" alt="Gu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Gu-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-     </div>
-</div>
   
 <br>
    
