@@ -8,8 +8,6 @@
   <img alt="Rafa-pic" height="200" width="400" style="border-radius:50px;" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
 </div>
 
-<hr>
-
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Atualmente eu trabalho com desenvolvimento back-end!
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Eu estou cursando o último ano de Análise e Desenvolvimento de Sistemas pela FIAP. 
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Hoje tanto meus estudos quanto meu trabalho são totalmente focados em Javascript e Typescript!
