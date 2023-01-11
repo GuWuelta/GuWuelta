@@ -24,10 +24,12 @@
 
   <div style="display: inline_block"><br>
     <div align="center"> 
-      <img align="center" alt="Gu-Js" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Gu-Ts" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      <img align="center" alt="Gu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Gu-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
      </div>
 </div>
+  
+<br>
    
 <div align="center">
   <h2>
