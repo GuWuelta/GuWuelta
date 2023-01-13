@@ -16,11 +16,13 @@
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Sou de São Paulo, Brasil.
 - <img width="20px" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png"/> Eu entrei neste mundo de programação pois desde criança sempre gostei muito de passar horas no computador. Fui apresentado a este mundo e meu interesse só aumentou (e ainda aumenta) conforme o tempo passa!
 
+<!---
 <div align="center">
   <a href="https://github.com/GuWuelta">
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GuWuelta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuWuelta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+-->
   
 <br>
    
